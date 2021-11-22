@@ -1,0 +1,13 @@
+first create new project
+open terminal
+call django-admin
+call cd mac
+call ls
+call python manage.py runserver
+call check & close server
+call python manage.py startapp shop
+call python manage.py startapp blog
+call python manage.py runserver
+call python manage.py migrate
+call python manage.py makemigrations
+call python manage.py createsuperuser
